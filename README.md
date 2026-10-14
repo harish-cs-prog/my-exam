@@ -1,2 +1,2 @@
 # my-exam
-Author -Harish
+Author -Harish(Computer Science)
